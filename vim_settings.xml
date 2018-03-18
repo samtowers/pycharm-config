@@ -9,15 +9,14 @@
       <file name="/Python Console" timestamp="1521332786364">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/usr/lib/python3.5/subprocess.py" timestamp="1521332773094" />
       <file name="$USER_HOME$/coding/python/svn-tests/venv/lib/python3.5/site-packages/svn/common.py" timestamp="1521332473848">
         <mark key="'" line="188" column="12" />
       </file>
-      <file name="$USER_HOME$/coding/python/svn-tests/get-commit.py" timestamp="1521333463480">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="3" />
-        <mark key="^" line="13" column="3" />
-        <mark key="." line="13" column="3" />
+      <file name="$USER_HOME$/coding/python/svn-tests/get-commit.py" timestamp="1521333606387">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
     </filemarks>
     <jumps>
@@ -26,6 +25,9 @@
       <jump line="188" column="12" filename="$USER_HOME$/coding/python/svn-tests/venv/lib/python3.5/site-packages/svn/common.py" />
     </jumps>
     <registers>
+      <register name=":" type="4">
+        <text>x</text>
+      </register>
       <register name="/" type="4">
         <text>filenotf</text>
       </register>
@@ -42,7 +44,9 @@
         <entry>full_url_or_path</entry>
         <entry>filenotf</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>x</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
