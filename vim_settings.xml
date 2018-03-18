@@ -12,11 +12,12 @@
       <file name="$USER_HOME$/coding/python/svn-tests/venv/lib/python3.5/site-packages/svn/common.py" timestamp="1521332473848">
         <mark key="'" line="188" column="12" />
       </file>
-      <file name="$USER_HOME$/coding/python/svn-tests/get-commit.py" timestamp="1521334773825">
+      <file name="$USER_HOME$/coding/python/svn-tests/get-commit.py" timestamp="1521334885646">
         <mark key="'" line="1" column="6" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="62" />
+        <mark key="." line="12" column="62" />
+        <mark key="^" line="12" column="62" />
       </file>
     </filemarks>
     <jumps>
@@ -64,7 +65,7 @@
         <text encoding="base64">cHJpbnQoJ0VuZCcpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>x</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -81,8 +82,8 @@
       </history-search>
       <history-cmd>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>x</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
